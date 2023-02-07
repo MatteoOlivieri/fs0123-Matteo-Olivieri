@@ -1,0 +1,26 @@
+* {
+    margin: 0 auto;
+
+}
+
+#text {
+    box-shadow: 0 0 20px 20px rgba(80, 79, 79, 0.528);
+    max-width: 320px;
+    max-height: 320px;
+    padding: 20px 0;
+    border-radius: 100%;
+    margin: 20px auto;
+    background: rgb(180, 58, 58);
+    background: linear-gradient(90deg, rgb(171, 125, 201) 0%, rgba(224, 36, 65, 1) 27%, rgb(23, 57, 152) 71%, rgb(221, 11, 154) 100%);
+    color: rgb(11, 11, 11);
+    cursor: pointer;
+
+}
+
+#text h1 {
+    margin: 40px;
+    text-align: center;
+
+
+
+}
